@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Lisboa
 - :computer: I’m interested in Web Development, Data Science and Artificial Intelligence.
-- :mortar_board:I have a degree in Civil Engineering from the Federal University of Paraiba (UFPB) and I am also going to start a BSc in Data Science and Artificial Intelligence at UFPB in the next college term (2021.1)
+- :mortar_board: I am a Full Stack Web Development graduate student at PUC Minas, and I have a degree in Civil Engineering from the Federal University of Paraiba (UFPB). I am also going to start a BSc in Data Science and Artificial Intelligence at UFPB in the next college term (2021.1).
 
 
 <!---
