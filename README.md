@@ -6,28 +6,28 @@
 <table align="center">
 <tr>
 <td align="center" width="15%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<div><b><center>JavaScript</center></b></div> 
+<img height=65px  src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 <td align="center" width="15%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+<div><b><center>HTML</center></b></div> 
+<img height=65px  src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
  <td align="center" width="15%">
-<span><b><center>CSS</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/css3.png"> 
+<div><b><center>CSS</center></b></div> 
+<img height=65px  src="https://img.icons8.com/color/2x/css3.png"> 
 </td>
  </tr>
 <td align="center" width="15%">
-<span><b><center>React</center></b></span> 
+<div><b><center>React</center></b></div> 
 <img height=65px src="https://img.icons8.com/office/80/000000/react.png"/>
 </td>
  <td align="center" width="15%">
-<span><b><center>Vue</center></b></span> 
+<div><b><center>Vue</center></b></div> 
 <img height=65px src="https://img.icons8.com/color/96/000000/vue-js.png"/>
 </td>
 <td align="center" width="15%">
-<span><b><center>Python</center></b></span> 
+<div><b><center>Python</center></b></div> 
 <img height=65px src="https://img.icons8.com/color/96/000000/python--v1.png">
 </td>
 
