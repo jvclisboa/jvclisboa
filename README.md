@@ -19,16 +19,16 @@
 </td>
  </tr>
 <td align="center" width="15%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://img.icons8.com/office/80/000000/react.png"/>
 </td>
  <td align="center" width="15%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<span><b><center>Vue</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/96/000000/vue-js.png"/>
 </td>
 <td align="center" width="15%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://cdn.svgporn.com/logos/git-icon.svg"> 
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/96/000000/python--v1.png">
 </td>
 
 </tr>
