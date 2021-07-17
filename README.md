@@ -1,6 +1,6 @@
 ### 👋 Hello everyone!
 - 👨‍💻 My name is Victor Lisboa and I'm a Front-end developer.
-- :mortar_board: I'm a Full Stack Web Development postgraduate student at the Pontifical Catholic University of Minas Gerais (PUC Minas), and I have a Bachelor's degree in Civil Engineering from the Federal University of Paraiba (UFPB). 
+- :mortar_board: I'm a Full Stack Web Development postgraduate student at PUC Minas, and I have a Bachelor's degree in Civil Engineering from the Federal University of Paraiba (UFPB). 
 
 ### 💻 Tech Stack 
 <table align="center">
