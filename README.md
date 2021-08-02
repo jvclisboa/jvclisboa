@@ -17,7 +17,6 @@
 <div><b><center>CSS</center></b></div> 
 <img height=65px  src="https://img.icons8.com/color/2x/css3.png"> 
 </td>
- </tr>
 <td align="center" width="15%">
 <div><b><center>React</center></b></div> 
 <img height=65px src="https://img.icons8.com/office/80/000000/react.png"/>
@@ -27,9 +26,14 @@
 <img height=65px src="https://img.icons8.com/color/96/000000/vue-js.png"/>
 </td>
 <td align="center" width="15%">
-<div><b><center>Python</center></b></div> 
-<img height=65px src="https://img.icons8.com/color/96/000000/python--v1.png">
+<div><b><center>Angular</center></b></div> 
+<img height=65px src="https://img.icons8.com/color/48/000000/angularjs.png">
 </td>
+<td align="center" width="15%">
+<div><b><center>Python</center></b></div> 
+<img height=65px src="https://img.icons8.com/color/48/000000/python--v1.png">
+</td>
+ 
 
 </tr>
 
