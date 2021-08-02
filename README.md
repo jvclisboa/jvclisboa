@@ -5,33 +5,33 @@
 ### 💻 Tech Stack 
 <table align="center">
 <tr>
-<td align="center" width="15%">
-<div><b><center>JavaScript</center></b></div> 
-<img height=65px  src="https://img.icons8.com/color/2x/javascript.png"> 
+<td align="center" width="10%">
+<div><b><center>Javascript</center></b></div> 
+<img height=65px  src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
 </td>
-<td align="center" width="15%">
+<td align="center" width="10%">
 <div><b><center>HTML</center></b></div> 
 <img height=65px  src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
- <td align="center" width="15%">
+ <td align="center" width="10%">
 <div><b><center>CSS</center></b></div> 
 <img height=65px  src="https://img.icons8.com/color/2x/css3.png"> 
 </td>
-<td align="center" width="15%">
+<td align="center" width="10%">
 <div><b><center>React</center></b></div> 
 <img height=65px src="https://img.icons8.com/office/80/000000/react.png"/>
 </td>
- <td align="center" width="15%">
+ <td align="center" width="10%">
 <div><b><center>Vue</center></b></div> 
 <img height=65px src="https://img.icons8.com/color/96/000000/vue-js.png"/>
 </td>
-<td align="center" width="15%">
+<td align="center" width="10%">
 <div><b><center>Angular</center></b></div> 
-<img height=65px src="https://img.icons8.com/color/48/000000/angularjs.png">
+<img height=65px src="https://img.icons8.com/color/96/000000/angularjs.png">
 </td>
-<td align="center" width="15%">
+<td align="center" width="10%">
 <div><b><center>Python</center></b></div> 
-<img height=65px src="https://img.icons8.com/color/48/000000/python--v1.png">
+<img height=65px src="https://img.icons8.com/color/96/000000/python--v1.png">
 </td>
  
 
