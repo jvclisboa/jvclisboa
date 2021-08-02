@@ -3,42 +3,15 @@
 - :mortar_board: I'm a Full Stack Web Development postgraduate student at PUC Minas, and I have a Bachelor's degree in Civil Engineering from the Federal University of Paraiba (UFPB). 
 
 ### 💻 Tech Stack 
-<table align="center">
-<tr>
-<td align="center" width="10%">
-<div><b><center>Javascript</center></b></div> 
-<img height=65px  src="https://img.icons8.com/color/48/000000/javascript--v1.png"> 
-</td>
-<td align="center" width="10%">
-<div><b><center>HTML</center></b></div> 
-<img height=65px  src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
- <td align="center" width="10%">
-<div><b><center>CSS</center></b></div> 
-<img height=65px  src="https://img.icons8.com/color/2x/css3.png"> 
-</td>
-<td align="center" width="10%">
-<div><b><center>React</center></b></div> 
-<img height=65px src="https://img.icons8.com/office/80/000000/react.png"/>
-</td>
- <td align="center" width="10%">
-<div><b><center>Vue</center></b></div> 
-<img height=65px src="https://img.icons8.com/color/96/000000/vue-js.png"/>
-</td>
-<td align="center" width="10%">
-<div><b><center>Angular</center></b></div> 
-<img height=65px src="https://img.icons8.com/color/96/000000/angularjs.png">
-</td>
-<td align="center" width="10%">
-<div><b><center>Python</center></b></div> 
-<img height=65px src="https://img.icons8.com/color/96/000000/python--v1.png">
-</td>
- 
-
-</tr>
-
-</table>
-
+<div align="center">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img 	src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src=	"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</div>
 
 ### ✉️ Contact me
 
