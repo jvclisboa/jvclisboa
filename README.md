@@ -1,6 +1,5 @@
 ### 👋 Hello everyone!
 - 👨‍💻 My name is Victor Lisboa and I'm a Software Engineer.
-- :mortar_board: I'm a Full Stack Web Development postgraduate student at PUC Minas, and I have a Bachelor's degree in Civil Engineering from the Federal University of Paraiba (UFPB). 
 
 ### 💻 Tech Stack 
 <div align="center">
